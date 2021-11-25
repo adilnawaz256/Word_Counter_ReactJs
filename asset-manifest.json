@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Word_Counter_ReactJs/static/css/main.bfd1a2f1.chunk.css",
+    "main.js": "/Word_Counter_ReactJs/static/js/main.b3bb5e08.chunk.js",
+    "main.js.map": "/Word_Counter_ReactJs/static/js/main.b3bb5e08.chunk.js.map",
+    "runtime-main.js": "/Word_Counter_ReactJs/static/js/runtime-main.a22a807d.js",
+    "runtime-main.js.map": "/Word_Counter_ReactJs/static/js/runtime-main.a22a807d.js.map",
+    "static/js/2.796736cb.chunk.js": "/Word_Counter_ReactJs/static/js/2.796736cb.chunk.js",
+    "static/js/2.796736cb.chunk.js.map": "/Word_Counter_ReactJs/static/js/2.796736cb.chunk.js.map",
+    "static/js/3.d41bb0cb.chunk.js": "/Word_Counter_ReactJs/static/js/3.d41bb0cb.chunk.js",
+    "static/js/3.d41bb0cb.chunk.js.map": "/Word_Counter_ReactJs/static/js/3.d41bb0cb.chunk.js.map",
+    "index.html": "/Word_Counter_ReactJs/index.html",
+    "static/css/main.bfd1a2f1.chunk.css.map": "/Word_Counter_ReactJs/static/css/main.bfd1a2f1.chunk.css.map",
+    "static/js/2.796736cb.chunk.js.LICENSE.txt": "/Word_Counter_ReactJs/static/js/2.796736cb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Word_Counter_ReactJs/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a22a807d.js",
+    "static/js/2.796736cb.chunk.js",
+    "static/css/main.bfd1a2f1.chunk.css",
+    "static/js/main.b3bb5e08.chunk.js"
+  ]
+}
