@@ -12,5 +12,8 @@
   <code>
     npm run
   </code></pre>
+  <li>
+    <a href="https://adilnawaz256.github.io/Word_Counter_ReactJs/">Word Counter></a>
+  </li>
 
   
