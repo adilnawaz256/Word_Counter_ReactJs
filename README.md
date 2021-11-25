@@ -13,7 +13,7 @@
     npm run
   </code></pre>
  <pre>
-    <a href="https://adilnawaz256.github.io/Word_Counter_ReactJs/">Word Counter</a>
+    <a href="https://adilnawaz256.github.io/Word_Counter_ReactJs/" target="_blank">Word Counter</a>
 </pre>
 
   
